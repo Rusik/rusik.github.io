@@ -1,2 +1,2 @@
-rusik.github.io
+Rusik
 ===============
